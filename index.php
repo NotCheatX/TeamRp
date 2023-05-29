@@ -682,7 +682,7 @@ $url = $GLOBALS[website]."/sendMessage?chat_id=".$chatId."&text=".$message."&rep
 file_get_contents($url);      
 }
 
-////////////////=============[Andry Mata]===============////////////////
-////////==========[Used api raw bot of @Zeltraxrockzzz]============////////
+////////////////=============[NotCheat]===============////////////////
+////////==========[Used api raw bot of @NotCheatX]============////////
 
 ?>
