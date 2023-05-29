@@ -1,6 +1,6 @@
 <?php
 
-////////////////=============[Made with ❤️ by AndryMata]===============////////////////
+////////////////=============[NotCheat]===============////////////////
 
 ///https://api.telegram.org/bot<token>/setwebhook?url=<url>
 
